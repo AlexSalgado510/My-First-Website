@@ -1,0 +1,29 @@
+header {
+  color: 0B090A;
+  font-family: cursive, "Times New Roman", fancy;
+  height: px;
+  margin: 0px;
+  text-align: center;
+  background: 0px;
+  background-size: cover;
+}
+
+h1, h2, h3, h4, h5 {
+  text-align: center;
+  color: F2F2F2;
+}
+
+body {
+  margin: 0px;
+  background-color: A5A5A5;
+  text-align: center;
+  color:F2F2F2 ;
+}
+
+footer {
+  text-align: center;
+  color:F2F2F2 ;
+
+}
+
+
