@@ -1,6 +1,6 @@
-header {
+header, h1 {
   color: 0B090A;
-  font-family: cursive, "Times New Roman", fancy;
+  font-family: "Proxima Nova", "Times New Roman", fancy;
   height: px;
   margin: 0px;
   text-align: center;
@@ -8,22 +8,35 @@ header {
   background-size: cover;
 }
 
-h1, h2, h3, h4, h5 {
-  text-align: center;
+nav {
+word-spacing: 30px;
+}
+
+h2 {
+  font-family: "Proxima Nova";
+  text-align: left;
   color: F2F2F2;
 }
 
 body {
-  margin: 0px;
+  font-family: "Proxima Nova";
+  margin: 120px;
   background-color: A5A5A5;
-  text-align: center;
+  text-align: left;
   color:F2F2F2 ;
 }
 
 footer {
+  font-family: "Proxima Nova";
   text-align: center;
   color:F2F2F2 ;
+}
 
+img {
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 }
 
 
