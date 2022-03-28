@@ -2,7 +2,7 @@
   color: 0B090A;
   font-family: "Proxima Nova", "Times New Roman", fancy;
   height: px;   
-  margin: 0px;
+  margin: auto;
   text-align: center;
   background: 0px;
   background-image: cover;
@@ -20,16 +20,18 @@ h2 {
 
 body {
   font-family: "Proxima Nova";
-  margin: 120px;
+  margin: auto;
   background-color: A5A5A5;
   text-align: center;
   color:F2F2F2 ;
+  width: 500px;
 }
 
 footer {
   font-family: "Proxima Nova";
   text-align: center;
   color:F2F2F2 ;
+  margin: auto;
 }
 
 img {
