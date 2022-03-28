@@ -1,20 +1,20 @@
-header, h1 {
+  header, h1 {        /*dress the header and subtitle the same style*/
   color: 0B090A;
   font-family: "Proxima Nova", "Times New Roman", fancy;
-  height: px;
+  height: px;   
   margin: 0px;
   text-align: center;
   background: 0px;
-  background-size: cover;
+  background-image: cover;
 }
 
 nav {
-word-spacing: 30px;
+word-spacing: 30px;   /*give the links some room to breathe*/
 }
 
 h2 {
-  font-family: "Proxima Nova";
-  text-align: left;
+  font-family: "Proxima Nova";  /*align everything to the center*/
+  text-align: center;
   color: F2F2F2;
 }
 
@@ -22,7 +22,7 @@ body {
   font-family: "Proxima Nova";
   margin: 120px;
   background-color: A5A5A5;
-  text-align: left;
+  text-align: center;
   color:F2F2F2 ;
 }
 
@@ -38,5 +38,3 @@ img {
   margin-right: auto;
   width: 20%;
 }
-
-
