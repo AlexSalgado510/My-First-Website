@@ -1,7 +1,6 @@
   header, h1 {        /*dress the header and subtitle the same style*/
   color: 0B090A;
-  font-family: "Proxima Nova", "Times New Roman", fancy;
-  height: px;   
+  font-family: "Proxima Nova", "Times New Roman", fancy;   
   margin: auto;
   text-align: center;
   background: 0px;
@@ -9,7 +8,9 @@
 }
 
 nav {
-word-spacing: 30px;   /*give the links some room to breathe*/
+word-spacing: 30px;
+font-size: medium;   /*give the links some room to breathe*/
+padding: auto;   
 }
 
 h2 {
@@ -37,6 +38,23 @@ footer {
 img {
   display: block; 
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto;   /*make sure the image size is appropriate*/
   width: 20%;
+  height: auto;
+}
+
+a:link {
+text-decoration-color: 2D93AD;
+}
+
+a:active {
+  text-decoration-color: D9ED92;
+}
+
+a:hover {
+  text-decoration-color: F72585;
+}
+
+a:visited {
+  text-decoration-color: 4CC9F0;
 }
