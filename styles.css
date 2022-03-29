@@ -44,17 +44,17 @@ img {
 }
 
 a:link {
-text-decoration-color: 2D93AD;
-}
-
-a:active {
-  text-decoration-color: D9ED92;
-}
-
-a:hover {
-  text-decoration-color: F72585;
+  color: 2D93AD;
 }
 
 a:visited {
-  text-decoration-color: 4CC9F0;
+  color: D9ED92;
+}
+
+a:hover {
+  color: F72585;
+}
+
+a:active {
+  color: 4CC9F0;
 }
