@@ -25,7 +25,7 @@ body {
   background-color: A5A5A5;
   text-align: center;
   color:F2F2F2 ;
-  width: 500px;
+  width: 300px;
 }
 
 footer {
@@ -39,7 +39,7 @@ img {
   display: block; 
   margin-left: auto;
   margin-right: auto;   /*make sure the image size is appropriate*/
-  width: 20%;
+  width: 250px;
   height: auto;
 }
 
